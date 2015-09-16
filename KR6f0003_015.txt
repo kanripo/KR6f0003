@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:16.012804
+#+DATE: 2015-08-30 20:00:20.497403
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_015-0737c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第十五¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -152,7 +151,7 @@
 屬眾會宣說法要。¶
 
 是時會中即有十千夜叉、羅剎、龍、乾闥婆、鳩盤¶
-茶等，覩佛勝相，悉發阿耨多羅三藐三菩提¶
+茶等，覩佛勝相，悉發阿耨多羅三藐三菩堤¶
 心。彼四大天王宮嬪眷屬中有十千天女，發¶
 阿耨多羅三藐三菩提心。¶
 

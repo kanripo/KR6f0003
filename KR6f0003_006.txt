@@ -1,31 +1,26 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.792006
+#+DATE: 2015-08-30 20:00:20.247728
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_006-0716a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第六¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨等¶
 奉　詔譯¶
 
-6菩提道品
-:PROPERTIES:
-:head: 菩提道品第六
-:END:
-¶
+菩提道品第六¶
 
 佛告寂慧菩薩言：「若諸菩薩摩訶薩欲證阿¶
 耨多羅三藐三菩提果者，當學彼諸大士所¶
@@ -71,11 +66,7 @@
 覺——此中真實建立菩薩摩訶薩，悉令成就阿¶
 耨多羅三藐三菩提果。」¶
 
-7如來身密不思議品
-:PROPERTIES:
-:head: 如來身密不思議品第七之一
-:END:
-¶
+如來身密不思議品第七之一¶
 
 爾時寂慧菩薩摩訶薩前白金剛手菩薩大¶
 祕密主言：「大祕密主！為我略說如來祕密。¶
