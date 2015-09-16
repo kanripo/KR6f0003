@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說如來不思議祕密大乘經
+#+DATE: 2015-08-30 20:00:16.572406
+#+PROPERTY: JUAN 0
