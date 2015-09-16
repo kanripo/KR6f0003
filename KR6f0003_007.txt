@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.817426
+#+DATE: 2015-08-30 20:00:21.229706
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_007-0718c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第七¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
@@ -91,11 +90,7 @@
 讚言：「善哉善哉！祕密主！汝善宣說如來身密¶
 不思議法，我悉知之。汝所說法，我今隨喜。」¶
 
-8如來語密不思議品
-:PROPERTIES:
-:head: 如來語密不思議品第八之一
-:END:
-¶
+如來語密不思議品第八之一¶
 
 復次，金剛手菩薩大祕密主告寂慧菩薩摩¶
 訶薩言：「復何名為如來語密語業清淨？所謂¶

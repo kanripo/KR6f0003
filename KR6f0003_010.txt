@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.896045
+#+DATE: 2015-08-30 20:00:21.297596
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_010-0726b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第十¶
 ¶
 譯經三藏朝散大夫試光祿卿光梵¶
 大師賜紫沙門臣惟淨等奉　詔譯¶
 
-12菩薩詣菩提場品
-:PROPERTIES:
-:head: 菩薩詣菩提場品第十二
-:END:
-¶
+菩薩詣菩提場品第十二¶
 
 「爾時菩薩既澡沐已，復受飲食身力充實，即¶
 時往詣大菩提場。到已告語善地天子并諸¶
