@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.772774
+#+DATE: 2015-08-30 20:00:19.357423
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_005-0714a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第五¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -80,7 +79,7 @@
 此二名由斯而立。彼法思童子，於其無毀宮¶
 女坐中化生；彼法慧童子，於其無比宮女坐
 <pb:KR6f0003_T_005-0714c>¶
-中化生。時二童子，在虛空中亦加趺坐，異¶
+中化生。時二童子，在虛空中亦加跌坐，異¶
 口同音說伽陀曰：¶
 
 #+BEGIN_VERSE

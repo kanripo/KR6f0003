@@ -1,30 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:16.036368
+#+DATE: 2015-08-30 20:00:19.616977
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_016-0739b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第十六¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨等¶
 奉　詔譯¶
 
-19護世品
-:PROPERTIES:
-:head: 護世品第十九之一
-:END:
-¶
+護世品第十九之一¶
 
 爾時金剛手菩薩大祕密主勸請世尊宣說¶
 正法，作是白言：「惟願世尊！為未發菩提心眾¶
@@ -80,7 +75,7 @@
 生無起、無我無人無眾生無壽者甚深緣起之¶
 法，此法是有此即有得，此法是無此即無得。¶
 此法若有此即是生，此法若無此即是滅。此¶
-是無明緣行、行緣識、識緣名色、名色緣六處、¶
+是無明緣行、行緣識、識繰名色、名色緣六處、¶
 六處緣觸、觸緣受、受緣愛、愛緣取、取緣有、¶
 有緣生、生緣老死憂悲苦惱，如是即一大苦¶
 蘊生。若法不有此即無得，即是滅法，謂無明¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.708798
+#+DATE: 2015-08-30 20:00:19.300043
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_002-0707a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第二¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -197,8 +196,7 @@
 一切法真如故，即入一切佛真如。又以自身¶
 真如故即入過去未來現在真如，亦非過去¶
 真如與彼未來現在真如有所違背。所有過¶
-去未來現在真如即是蘊處界真如，蘊處界¶
-真如即是清淨真如。染淨真如即是生死涅¶
+去未來現在真如即是蘊處界真如，蘊處界真如即是清淨真如。染淨真如即是生死涅¶
 槃真如，生死涅槃真如即是無造作真如。無¶
 造作真如即是一切造作真如。
 
