@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.985346
+#+DATE: 2015-08-30 20:00:17.799296
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_014-0735c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第十四¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -86,11 +85,7 @@
 神力故，所散華鬘即時普遍此三千大千世¶
 界，皆現眾妙華鬘莊嚴周匝，盈積可八步量。¶
 
-17無二無說品
-:PROPERTIES:
-:head: 無二無說品第十七
-:END:
-
+無二無說品第十七
 <pb:KR6f0003_T_014-0736b>¶
 
 爾時寂慧菩薩摩訶薩前白金剛手菩薩大祕¶
@@ -291,11 +286,7 @@
 會中有五百苾芻得心解脫，二百菩薩得無¶
 生法忍。¶
 
-18入曠野大城受食品
-:PROPERTIES:
-:head: 入曠野大城受食品第十八之一
-:END:
-¶
+入曠野大城受食品第十八之一¶
 
 爾時金剛手菩薩大祕密主滿所思念得授¶
 記已，安慰其心生大歡喜踊躍慶快，前白佛¶

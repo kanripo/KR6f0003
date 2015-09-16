@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.965336
+#+DATE: 2015-08-30 20:00:17.777992
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_013-0733b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第十三¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -135,11 +134,7 @@
 說是法時，會中有十千人發阿耨多羅三藐¶
 三菩提心，五千菩薩得無生法忍。¶
 
-16金剛手菩薩大祕密主授記品
-:PROPERTIES:
-:head: 金剛手菩薩大祕密主授記品第十六之一
-:END:
-¶
+金剛手菩薩大祕密主授記品第十六之一¶
 
 爾時會中有諸菩薩咸起是念：「此金剛手菩¶
 薩大祕密主，其何久近當得成就阿耨多羅¶
