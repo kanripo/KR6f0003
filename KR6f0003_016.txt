@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:16.036368
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:50
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
@@ -20,7 +20,7 @@
 光梵大師賜紫沙門臣惟淨等¶
 奉　詔譯¶
 
-19護世品
+* 19護世品
 :PROPERTIES:
 :head: 護世品第十九之一
 :END:
