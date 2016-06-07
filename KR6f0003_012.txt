@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.945743
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:50
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_012-0731b> 
 #+PROPERTY: JUAN 12
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第十二¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -97,11 +96,7 @@
 四千人發阿耨多羅三藐三菩提心，無量眾¶
 生於三乘中而得成熟。」¶
 
-15所緣品
-:PROPERTIES:
-:head: 所緣品第十五之一
-:END:
-¶
+* 所緣品第十五之一¶
 
 爾時金剛手菩薩大祕密主白佛言：「世尊！如¶
 佛世尊所說法時，豈非我於如來所說有違¶

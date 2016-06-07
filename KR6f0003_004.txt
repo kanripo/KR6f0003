@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:15.750770
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:50
 #+TITLE: 佛說如來不思議祕密大乘經
 #+PROPERTY: CBETA_ID T11n0312
 #+PROPERTY: ID KR6f0003
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 312
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0003_T_000-0704b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0003_T_004-0711c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《佛說如來不思議祕密大乘經》卷¶
+《佛說如來不思議祕密大乘經》卷¶
 第四¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -77,11 +76,7 @@
 深植善本，勤修一切最勝福行，當為一切有¶
 情作大饒益。」¶
 
-4震吼音聲菩薩來會品
-:PROPERTIES:
-:head: 震吼音聲菩薩來會品第四
-:END:
-¶
+* 震吼音聲菩薩來會品第四¶
 
 爾時世尊告寂慧菩薩摩訶薩言：「善男子！汝¶
 聞空中多種鼓樂妙音聲不？」
@@ -114,11 +109,7 @@
 祕密主菩薩摩訶薩宣說如來祕密不思議¶
 法。汝當於此諦聽諦受。」¶
 
-5持國輪王先行品
-:PROPERTIES:
-:head: 持國輪王先行品第五
-:END:
-¶
+* 持國輪王先行品第五¶
 
 爾時會中諸菩薩眾咸起是念：「此金剛手大¶
 祕密主菩薩摩訶薩，往昔於何佛世尊所，親¶
@@ -222,9 +213,9 @@
 　又四俱胝那庾多，
 　人受淨戒作佛事，¶
 　聽法供養佛世尊，
-　作已各還於本處。
+　作已各還於本處。」
 #+END_VERSE
-」¶
+¶
 
 「彼諸太子說伽陀已，同為其父持國轉輪聖¶
 王作供養事。擇以龍堅妙栴檀香造作樓閣，¶
